@@ -1,0 +1,37 @@
+/* Custom styling */ 
+
+/* * {
+    border: 1px solid black;
+} */
+
+body {
+    background-color: rgb(238, 186, 118);
+    font-family: sans-serif;
+}
+
+.title {
+    text-align: center;
+    font-size: 24px;
+}
+
+.main-page {
+    font-size: 18px;
+}
+
+.recipes {
+    border: 1px solid black;
+    width: 500px;
+    box-sizing: content-box;
+}
+.pre-reqs {
+    width: 500px;   
+}
+.preview-image {
+    display: block;
+    height: 500px;
+    width: auto;
+    margin-bottom: 20px;
+}
+.link-home {
+    text-align: center;
+}
